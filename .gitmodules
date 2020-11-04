@@ -1,0 +1,9 @@
+[submodule "packages/Framework"]
+	path = packages/Framework
+	url = https://github.com/tonyshow/CCCPackagesFramework.git
+[submodule "assets/Framework"]
+	path = assets/Framework
+	url = https://github.com/tonyshow/CCCSrcFramework.git
+[submodule "assets/resources/Framework"]
+	path = assets/resources/Framework
+	url = https://github.com/tonyshow/CCCResFramework.git
